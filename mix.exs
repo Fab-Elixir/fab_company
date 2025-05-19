@@ -5,7 +5,7 @@ defmodule FabCompany.MixProject do
     [
       app: :fab_company,
       description: "Fab.Company is an Elixir library for generating random information about a business",
-      version: "0.0.0",
+      version: "1.0.0",
       elixir: "~> 1.14",
       start_permanent: Mix.env() == :prod,
       docs: docs(),
